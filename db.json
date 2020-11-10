@@ -20,6 +20,20 @@
             "image":"https://edteam-media.s3.amazonaws.com/courses/big/91e149d0-961a-4594-a8ff-0a625be9cdd2.png" ,
             "price":10,
             "profesor":"Alejandro Rodriguez"
+        },
+        {
+            "id": 4,
+            "title":"Server Side Render con Go", 
+            "image":"https://edteam-media.s3.amazonaws.com/courses/big/e737f2e3-92b3-400e-8d82-1b19e0277012.png" ,
+            "price":180,
+            "profesor":"Prof. Alexys Lozada"
+        },
+        {
+            "id": 5,
+            "title":"Crea tu propio Slack con SignalR", 
+            "image":"https://edteam-media.s3.amazonaws.com/courses/big/5f6e6acb-0d12-48fa-945b-a39b2ef63614.png" ,
+            "price":180,
+            "profesor":"Prof. Miguel Teheran"
         }
     ]
 }
