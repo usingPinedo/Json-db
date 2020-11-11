@@ -34,6 +34,13 @@
             "image":"https://edteam-media.s3.amazonaws.com/courses/big/5f6e6acb-0d12-48fa-945b-a39b2ef63614.png" ,
             "price":180,
             "profesor":"Prof. Miguel Teheran"
+        },
+        {
+            "id": 6,
+            "title":"Los caminos del desarrollador web", 
+            "image":"https://edteam-media.s3.amazonaws.com/courses/big/e7fbb7f9-773c-426a-bbb5-14276a37af33.png" ,
+            "price":180,
+            "profesor":"Prof. Alvaro Felipe"
         }
     ]
 }
