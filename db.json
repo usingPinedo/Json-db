@@ -42,5 +42,14 @@
             "price":180,
             "profesor":"Prof. Alvaro Felipe"
         }
+    ],
+    "control": [
+        {
+            "id": 1,
+            "info2":"20124596821", 
+            "companyName":"Happy Frog SA",
+            "licenseNumber":"Q85964523",
+            "truckDriver":"Humberto Rojas"
+        }
     ]
 }
